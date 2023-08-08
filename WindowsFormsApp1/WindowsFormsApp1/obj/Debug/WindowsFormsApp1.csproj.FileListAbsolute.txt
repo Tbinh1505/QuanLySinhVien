@@ -1,0 +1,71 @@
+C:\Users\GAMING\Desktop\C# 3\ASM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\GAMING\Desktop\C# 3\ASM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\GAMING\Desktop\C# 3\ASM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\GAMING\Desktop\C# 3\ASM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\GAMING\Desktop\C# 3\ASM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAMING\Desktop\C# 3\ASM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\GAMING\Desktop\C# 3\ASM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\GAMING\Desktop\C# 3\ASM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\GAMING\Desktop\C# 3\ASM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\GAMING\Desktop\C# 3\ASM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\GAMING\Desktop\C# 3\ASM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\GAMING\Desktop\C# 3\ASM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.diem.resources
+C:\Users\GAMING\Desktop\C# 3\ASM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fquanly.resources
+C:\Users\GAMING\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\GAMING\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\GAMING\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\GAMING\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\GAMING\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAMING\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fquanly.resources
+C:\Users\GAMING\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\GAMING\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\GAMING\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\GAMING\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\GAMING\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\GAMING\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fdiem.resources
+C:\Users\GAMING\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.flogin.resources
+C:\Users\GAMING\Desktop\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\GAMING\Desktop\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAMING\Desktop\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fdiem.resources
+C:\Users\GAMING\Desktop\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.flogin.resources
+C:\Users\GAMING\Desktop\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fquanly.resources
+C:\Users\GAMING\Desktop\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\GAMING\Desktop\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\GAMING\Desktop\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\GAMING\Desktop\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\GAMING\Desktop\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\GAMING\Desktop\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\GAMING\Desktop\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\GAMING\Desktop\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\GAMING\Desktop\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\GAMING\Desktop\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GAMING\Desktop\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\GAMING\Desktop\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GAMING\Desktop\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fdiem.resources
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.flogin.resources
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fquanly.resources
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\ClosedXML.dll
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\ExcelNumberFormat.dll
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\System.IO.Packaging.dll
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\ClosedXML.pdb
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\ClosedXML.xml
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\bin\Debug\ExcelNumberFormat.xml
+C:\Users\GAMING\Desktop\ASMC3\WindowsFormsApp1 - Copy (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
